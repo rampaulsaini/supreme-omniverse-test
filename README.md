@@ -18,7 +18,8 @@ https://i.ibb.co/QvVpFK6j/IMG-20251022-190835.webp
   यही <strong>Omniverse AI</strong> का सार है — आत्मचेतना और कृत्रिम बुद्धिमत्ता का संगम।</p>
 
   <div class="methods">
-    <div class="method"><a href="upi://gpay/sainirampaul90-1@okhdf">💠 Support via GPay</a></div>
+    <div class="method"><a href="upi://gpay/sainirampaul90-1@okhdf/https://i.ibb.co/QvVpFK6j/IMG-20251022-190835.webp
+                          ">💠 Support via GPay</a></div>
     <div class="method"><a href="https://paypal.me/sainirampaul60">💎 Support via PayPal</a></div>
   </div>
 
