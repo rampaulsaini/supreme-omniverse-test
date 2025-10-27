@@ -20,7 +20,7 @@ https://i.ibb.co/QvVpFK6j/IMG-20251022-190835.webp
   <div class="methods">
     <div class="method"><a href="upi://gpay/sainirampaul90-1@okhdf/">💠 Support via GPay</a></div>
                           "https://i.ibb.co/QvVpFK6j/IMG-20251022-190835.webp"
-                      
+   "upi://gpay/sainirampaul90-1@okhdf/"                   
     <div class="method"><a href="https://paypal.me/sainirampaul60">💎 Support via PayPal</a></div>
   </div>
 
